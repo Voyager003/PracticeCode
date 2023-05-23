@@ -8,3 +8,5 @@
   - [예제](https://github.com/Voyager003/PracticeCode/tree/master/Java_EffectiveJava/effectiveJava/src/main/java/effectivejava/practicecode/item2), [테스트 코드](https://github.com/Voyager003/PracticeCode/tree/master/Java_EffectiveJava/effectiveJava/src/test/java/effectivejava/practicecode/item2)
 - [item3](https://voyager003.github.io/wiki/java/effective_item3/) : private 생성자나 열거 타입으로 Singleton임을 보증하라
   - [예제](https://github.com/Voyager003/PracticeCode/tree/master/Java_EffectiveJava/effectiveJava/src/main/java/effectivejava/practicecode/item3), [테스트 코드](https://github.com/Voyager003/PracticeCode/tree/master/Java_EffectiveJava/effectiveJava/src/test/java/effectivejava/practicecode/item3)
+- [item4](https://voyager003.github.io/wiki/java/effective_item4/)
+  - [예제](https://github.com/Voyager003/PracticeCode/tree/master/Java_EffectiveJava/effectiveJava/src/main/java/effectivejava/practicecode/item4)

@@ -10,3 +10,5 @@
   - [예제](https://github.com/Voyager003/PracticeCode/tree/master/Java_EffectiveJava/effectiveJava/src/main/java/effectivejava/practicecode/item3), [테스트 코드](https://github.com/Voyager003/PracticeCode/tree/master/Java_EffectiveJava/effectiveJava/src/test/java/effectivejava/practicecode/item3)
 - [item4](https://voyager003.github.io/wiki/java/effective_item4/)
   - [예제](https://github.com/Voyager003/PracticeCode/tree/master/Java_EffectiveJava/effectiveJava/src/main/java/effectivejava/practicecode/item4)
+- [item5](https://voyager003.github.io/wiki/java/effective_item5/)
+  - [예제](https://github.com/Voyager003/PracticeCode/tree/master/Java_EffectiveJava/effectiveJava/src/main/java/effectivejava/practicecode/item5)
